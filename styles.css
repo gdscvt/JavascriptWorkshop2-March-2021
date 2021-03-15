@@ -1,0 +1,44 @@
+body{
+    width: 500px;
+    margin:auto !important;
+    text-align: center;
+}
+
+
+.button {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    border:solid 5px black;
+    margin: 10px auto 10px;
+}
+
+h1{
+    font-family: 'Ranchers';
+}
+
+h2{
+    font-family: 'Ranchers';
+    font-size: 12px;
+}
+
+p{
+    font-family: 'Ranchers';
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
